@@ -1,10 +1,10 @@
 # Reverse an Array
 
-The task was given to write a function that took an array as an argumet. Without utilizing any of the built-in methods, return an array with the elements in reverse order
+The task was given to write a function that took an array as an argument. Without utilizing any of the built-in methods, return an array with the elements in reverse order
 
 ## Whiteboard Process
 
-- ![Whiteboard](array-reverse.jpeg)
+![Whiteboard](array-reverse.jpeg)
 
 ### Approach & Efficiency
 
